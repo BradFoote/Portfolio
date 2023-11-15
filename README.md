@@ -1,1 +1,1 @@
-This is a portfolio website I am creating to upload my most recent projects.
+This is a portfolio website I am creating to share my most recent projects.
